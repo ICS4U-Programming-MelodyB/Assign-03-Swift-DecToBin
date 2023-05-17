@@ -1,0 +1,6 @@
+The binary of 513 is 0000 0010 0000 0001 
+The binary of 5 is 0000 0101 
+Please enter a valid input.
+Please enter a valid input.
+The binary of 67 is 0100 0011 
+Please enter a valid input.
